@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run pikireport.py
+web: sh setup.sh && streamlit run pikiopp.py
